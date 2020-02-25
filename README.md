@@ -15,7 +15,8 @@ Main working flow:
  
  Commands:
  
- git pull - pull latest changes from project (Ctrl + T)
- git checkout -b HW3 - checkout into the new branch HW3
- git commit -a -m "text of commit" - commit last changes
- git push - push latest commits into the remote repository
+ 1. git pull - pull latest changes from project (Ctrl + T)
+ 2. git checkout -b HW3 - checkout into the new branch HW3
+ 3. git commit -a -m "text of commit" - commit last changes
+ 4. git push - push latest commits into the remote repository
+ 
