@@ -11,3 +11,11 @@ Main working flow:
   only 
 5. After all fixes and approve student should merge branch into the master
  branch on github
+ 
+ 
+ Commands:
+ 
+ git pull - pull latest changes from project (Ctrl + T)
+ git checkout -b HW3 - checkout into the new branch HW3
+ git commit -a -m "text of commit" - commit last changes
+ git push - push latest commits into the remote repository
