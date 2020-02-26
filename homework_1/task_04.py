@@ -1,3 +1,6 @@
-# fourth task
-a, b, c = [int(x) for x in input('Enter three values: ').split()]
-print( (2 * a - 8 * b) / (a + b +c ))
+first_number = 5
+second_number = 8
+third_number = 4
+result = (2 * first_number - 8 * second_number / (first_number - second_number
+                                                  + third_number))
+print(f"Result of computations is {result}")

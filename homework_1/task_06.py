@@ -1,4 +1,3 @@
-# sixth task
 number_one = 125
 number_two = 437
 print(f"Remainder of the division {number_one} by 2 is {number_one % 2} \n"

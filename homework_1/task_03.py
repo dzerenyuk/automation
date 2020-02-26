@@ -1,10 +1,16 @@
-# third task
-first_number = int(input('Enter first number'))
-second_number = int(input('Enter second number'))
-print(first_number + second_number)  # addition
-print(first_number - second_number)  # substraction
-print(first_number * second_number)  # multiplication
-print(first_number // second_number)  # division with no remainder
-print(first_number / second_number)  # division with remainder
-print(first_number % second_number)  # remainder from division
-print(first_number ** second_number)  # powering
+first_number = 25
+second_number = 6
+print(f"Result of addition {first_number} and {second_number} is "
+      f"{first_number + second_number}")
+print(f"Result of subtraction {first_number} and {second_number} is "
+      f"{first_number - second_number}")
+print(f"Result of multiplication {first_number} and {second_number} is "
+      f"{first_number * second_number}")
+print(f"Result of division with no remainder {first_number} and"
+      f" {second_number} is {first_number // second_number}")
+print(f"Result of division with remainder {first_number} and {second_number} "
+      f"is {first_number / second_number}")
+print(f"Result of remainder from division {first_number} by {second_number} "
+      f"is {first_number % second_number}")
+print(f"Result of powering {first_number} by {second_number} "
+      f"is {first_number ** second_number}")

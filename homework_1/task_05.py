@@ -1,4 +1,5 @@
-# fifth task
-string = input('Enter your string: ')
-number = int(input('Enter your number: '))
-print(string * number)
+user_input = "string1"
+number = 8
+print(f"Result of manipulation with {user_input} and {number} "
+      f"is {user_input * number}")
+
